@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/index.css"],"names":[],"mappings":"AAAA,YACI,YAAa,CACb,gBACJ","file":"main.18369664.chunk.css","sourcesContent":[".slider img{\r\n    height: 450px;\r\n    object-fit: cover;\r\n}"]}
